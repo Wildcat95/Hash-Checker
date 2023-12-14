@@ -59,3 +59,9 @@ Python modules/scripts used:
 	tkinter.messagebox
 ---------------------------------------------------------------------
 To install:
+
+Go to https://github.com/Wildcat95/Hash-Checker.git
+
+Download the zip or exe.
+
+Might have to 'pip install requests' if program doesn't load properly.
