@@ -1,6 +1,9 @@
+HASH CHECKER for Linux or Windows
+
+
 **Readme**
 
-This program has two main functions:
+This program has two main functions, each of with are independent from one another. 
 
    1st function: 'Select a file from your system to create hashes:'
 
@@ -47,13 +50,12 @@ The 'Reset' button is an easy way to clear the information the user has previous
 
 The 'Close' button will close the program.
 
-
-
-
-
-
-
-	The user can use this program to check hashes against VirusTotal's database.
-		Results of the search are placed into a file 'hash_check_result.txt' in a
-		location of the user's choosing. The file will indicate if the hash has
-		been flagged as 'malicious' or 'not malicious'.
+---------------------------------------------------------------------
+Python modules/scripts used:
+	tkinter as tk
+	requests
+	hashlib
+	filedialog imported from tkinter
+	tkinter.messagebox
+---------------------------------------------------------------------
+To install:
