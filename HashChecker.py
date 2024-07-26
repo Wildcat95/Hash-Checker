@@ -1,5 +1,5 @@
 # ----------------------------------------------------------------------------------------------------------------------
-#   HashChecker.py                                             Author: JBird
+#   HashChecker.py                                             Author: Wildcat95
 #
 #   This program has two main functions. These can be used independent of one another.
 #
